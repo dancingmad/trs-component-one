@@ -11,6 +11,7 @@
     <name>proxy</name>
     <description>Demo project for Spring Boot</description>
 <!-- this is a commit from master that is a conflict - resolved it -->
+    <!-- another commit that should be squashed later on -->
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
