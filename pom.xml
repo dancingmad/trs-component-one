@@ -27,6 +27,7 @@
         <frontend.baseDir>src/main/resources/frontend/</frontend.baseDir>
     </properties>
 <!-- some fix that I did for the code review suggestion -->
+    <!-- another commit for rebase -->
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
