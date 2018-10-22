@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 <!-- another commit in the meanwhile -->
     <groupId>at.egit.george</groupId>
-    <artifactId>proxy</artifactId>
+    <artifactId>foxy</artifactId>
     <version>1.1.0</version>
     <packaging>jar</packaging>
 <!-- a change that got added to master right away -->
